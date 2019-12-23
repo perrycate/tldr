@@ -1,16 +1,14 @@
 ---
-title: Welcome
+title: I summarize books
 ---
 
 *Hello, world!*
 
-If you are seeing this page through your web browser, you have successfully
-created a new Serum project.
+My name is Perry Cate. For my New Year's resolution, I decided to summarize
+20 interesting books by the end of 2020. You've stumbled onto the site
+where I'm keeping these summaries!
+
 
 ## What's Next?
 
-[The official Serum website](https://dalgona.github.io/Serum/docs) provides
-a comprehensive set of documentation that will help you customize this website
-further.
-
-Thank you for using Serum!
+Well, I probably should start adding stuff to this site, shouldn't I?

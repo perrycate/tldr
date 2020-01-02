@@ -1,0 +1,86 @@
+
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <title>All Posts - TL;DR</title>
+    <link rel="stylesheet" href="/assets/css/style.css">
+    <link rel="stylesheet" href="/assets/css/prism.css">
+    
+<!--==========================================-->
+<!-- Override "includes/head-extras.html.eex" -->
+<!-- to add more tags inside this <head> tag. -->
+<!--==========================================-->
+
+  </head>
+  <body>
+    <div id="wrapper">
+      <header id="top">
+<h1><a href="/">TL;DR</a></h1>
+<p>Too Long; Didn't Read</p>
+</header>
+      <nav>
+<ul>
+  <li><a href="/index.html">Home</a></li>
+  <li><a href="/posts">Books</a></li>
+</ul>
+</nav>
+      <hr>
+      <main><article class="list"><header><h1 id="all-posts">All Posts</h1></header><div><ul><li class="article"><h2 id="so-good-they-can't-ignore-you-"><a href="/posts/so-good-they-cant-ignore-you.html">So Good They Can&apos;t Ignore You</a><br/></h2><p class="post-date">
+            Monday, 28 Oct 2019
+            
+              <span class="tags">
+                Tags:
+                
+                  <a class="tag" href="/tags/Cal-Newport">Cal-Newport</a><a class="tag" href="/tags/Career">Career</a><a class="tag" href="/tags/Deliberate-Practice">Deliberate-Practice</a></span></p><p class="preview">This book is Cal Newport’s philosophy about how to find work that you love. TL;DR - Don’t worry about finding something you’re “passionate about”. Just pick something and get really good at it. Rule #…</p></li><li class="article"><h2 id="sample-post-"><a href="/posts/2019-01-01-sample-post.html">Sample Post</a><br/></h2><p class="post-date">
+            Tuesday, 1 Jan 2019
+            
+              <span class="tags">
+                Tags:
+                
+                  <a class="tag" href="/tags/hello">hello</a><a class="tag" href="/tags/sample">sample</a></span></p><p class="preview">This is a sample blog post. Did you know Serum focuses on blogging, as well as general purpose static websites? Serum is capable of handling tagged blog posts and generating lists of blog posts!…</p></li></ul></div><p class="pagination">
+    Showing Page 1 of 1.
+    
+    
+  </p></article></main>
+      <hr>
+      <footer>
+        
+<!--=====================================-->
+<!-- Override "includes/footer.html.eex" -->
+<!-- to customize your footer contents.  -->
+<!--=====================================-->
+
+        <p>
+          Powered by <a href="https://github.com/Dalgona/Serum">Serum</a> v1.3.0,
+          with <a href="https://github.com/Dalgona/serum-theme-essence">Essence</a> theme
+        </p>
+      </footer>
+    </div>
+    <script src="/assets/js/prism.js"></script>
+  </body>
+</html>
+<script>
+const ws_url = "ws://" + location.host + "/serum_live_reloader";
+var ws;
+
+connect();
+
+function connect() {
+  ws = new WebSocket(ws_url);
+  ws.onmessage = onMessage;
+  ws.onclose = onClose;
+}
+
+function onMessage(e) {
+  if (e.data === "reload") {
+    location.reload();
+  }
+}
+
+function onClose(e) {
+  console.warn("WebSocket disconnected from server. Reconnecting in 10 seconds.");
+  setTimeout(connect, 10000)
+}
+</script>

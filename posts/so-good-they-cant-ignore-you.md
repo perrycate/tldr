@@ -13,7 +13,7 @@ pick _something_ and get really good at it.
 
 ## Rule #1: Don't follow your passion
 
-### “Follow your passion” (aka the *passion hypothesis*) is bad career advice
+#### “Follow your passion” (aka the *passion hypothesis*) is bad career advice
  * Most people don’t have pre-existing passions like that, and if they do then
     it won’t live up to their expectations.
  * Trying (and probably failing) to find your “true passion” up front will just
@@ -21,7 +21,7 @@ pick _something_ and get really good at it.
  * Career passions are rare, take time to build, and are a side effect of
     mastery.
 
-### Scientifically-backed elements of a fulfilling workplace environment (Self-Determination Theory):
+#### Scientifically-backed elements of a fulfilling workplace environment (Self-Determination Theory):
  * **Autonomy** - you have control over your day
  * **Mastery** - you feel you are good at what you do
  * **Relatedness** - you feel a connection to other people/have a purpose for
@@ -41,13 +41,13 @@ Skill is really important! Focus on that instead of finding your "passion".
 > “...put aside the question of whether your job is your true passion, and
 > instead turn your focus toward becoming so good they can’t ignore you.”
 
-### Traits that define great work:
+3 Qualities have been shown to consistently and dramatically increase job satisfaction:
  * **Creativity**
  * **Impact**
  * **Control** (This is the most important)
 (Note the similarities to SDT)
 
-### You should do everything you can to get a job with those^ three qualities. How? "Career Capital"!
+#### You should do everything you can to get a job with those^ three qualities. How? "Career Capital"!
  * The traits that define great work are rare and valuable.
  * Economics - if you want rare and valuable work, you need rare and valuable
     skills to offer. We call those skills **career capital**.
@@ -112,7 +112,7 @@ unless a conscious effort is made to push ourselves out of our comfort zone.
     * Keep your focus. Don’t constantly switch pursuits!
 
 ### Cal’s strategies for applying the Craftsman mindset (he is a computer science academic):
-1. _Keep a "Research Bible"_
+1. Keep a "Research Bible"
     * Once per week, he summarizes a paper he thinks might be relevant to his
        research:
        * Description
@@ -121,52 +121,49 @@ unless a conscious effort is made to push ourselves out of our comfort zone.
     * Introduces the strain of deliberate practice towards digesting research
        papers. (Fun fact: this is what inspired me to start this project!)
 
-2. _Maintain an "Hour-Tally"_
+2. Maintain an "Hour-Tally"
     * Sheet of paper behind his desk with a row for each month
     * Tally for each months of the # of hours spent in a state of deliberate
        practice
     * Motivates him to find more ways to fit deliberate practice into his schedule
 
-3. _Have a "Theory-Notebook"_
+3. Have a "Theory-Notebook"
     * He bought the most expensive notebook he could find to record brainstorming
        sessions
     * The price helps signal the importance of it to himself
     * Strain to collect and organize his thinking == Deliberate practice.
 
 ## Rule #3: Turn down a promotion
-(Prioritize control)
 
 Giving people more control over what they do and how they do it has been shown
 to increase happiness, engagement, and sense of fulfillment.
 
-Once you have some career capital, you should _leverage ("invest") it towards
-getting more control in your job!_
+### Once you have some career capital, "invest" it to get more autonomy in your job
 
 Beware certain traps that reduce control:
 
-1. Control acquired without career capital is not sustainable
-    * Don't be the person who quits their job to start a company _before_ they
-       have the skills to succeed. It'll fail.
-    * Don't be the "lifestyle designer" with a vague plan to support themselves
-       with blogging before they have any readers.
+#### 1. Control acquired without career capital is not sustainable
+* Don't be the person who quits their job to start a company _before_ they
+    have the skills to succeed. It'll fail.
+* Don't be the "lifestyle designer" with a vague plan to support themselves
+    with blogging before they have any readers.
 
-2. As soon as you have enough career capital to get more control, people will
-    try to keep you from doing so.
-    * Employers may resist if you ask for a shorter work week
-    * You may be offered a promotion that increases your responsibilities and
-       doesn't benefit your capital building.
+#### 2. As soon as you have enough career capital to get more control, people will try to keep you from doing so.
+* Employers may resist if you ask for a shorter work week
+* You may be offered a promotion that increases your responsibilities and
+    doesn't benefit your capital building.
 
 The **Law of Financial Viability** - "When considering adding more control to
 your life, seek evidence of whether people are willing to pay for it. If so,
 continue. If not, move on.
- * "Do what people are willing to pay for"
+> "Do what people are willing to pay for"
 
 
 ## Rule #4: Think Small, Act Big
 (the importance of mission)
 
-Happiness comes from building a career on a clear and compelling **mission**
- * (Note the similarity to relatedness from SDT in Rule 1, and impact in Rule 2.)
+Happiness comes from building a career on a clear and compelling **mission**.
+ (Note the similarity to relatedness from SDT in Rule 1, and impact in Rule 2.)
 
 You should build up your career capital before figuring out a mission
  * New discoveries are made in the space of the **adjacent possible** - the
@@ -198,30 +195,32 @@ and released it as open-source (venue that supports remarking).
 
 ### Cal's personal mission-development system:
 Imagine a 3-level pyramid.
- * Top level: Tentative Research Mission
-    * Rough guideline directing where he wants to go
-    * Is developed after first acquiring career capital
- * Bottom level: Background Research
-    * Every week he exposes himself to something new about his field.
-       * Read a paper, attend a talk, meet with someone, etc.
-    * Adds the summary to his Research Bible (see rule 2)
-    * Goes on a walk every day to mull over his research
- * Middle level: Exploratory Projects
-    * Results in most of the work he does as a professor
-    * Uses little bets to explore promising ideas from his background research
-       * Small enough to each be completed in less than a month
-       * Forces him to create new value (eg master a new skill and produce new
-          unique results)
-       * Produces a concrete result that he can use to gather concrete feedback
-    * Keeps track of the hours spent working on these in his monthly hour tally
+
+#### Top level: Tentative Research Mission
+* Rough guideline directing where he wants to go
+* Is developed after first acquiring career capital
+
+#### Bottom level: Background Research
+* Every week he exposes himself to something new about his field. (Read a paper,
+   attend a talk, meet with someone, etc.)
+* Adds the summary to his Research Bible (see rule 2)
+* Goes on a walk every day to mull over his research
+#### Middle level: Exploratory Projects
+* Results in most of the work he does as a professor
+* Uses little bets to explore promising ideas from his background research:
+    * Small enough to each be completed in less than a month
+    * Forces him to create new value (eg master a new skill and produce new
+        unique results)
+    * Produces a concrete result that he can use to gather concrete feedback
+* Keeps track of the hours spent working on these in his monthly hour tally
 
 
-"Hardness scares off the daydreamers and the timid, leaving more opportunity
-for those who are willing to take the time to carefully work out the best path
-forward and then confidently take action."
+> "Hardness scares off the daydreamers and the timid, leaving more opportunity
+> for those who are willing to take the time to carefully work out the best path
+> forward and then confidently take action."
 
 -------------
-### My Opinion
+## My Opinion
 I hope you found this TL;DR helpful, but this book is definitely still worth a
 read. Cal offers a bunch of well-cited studies and plenty of memorable
 anecdotes to back up his points and give you an intuition for what he's talking

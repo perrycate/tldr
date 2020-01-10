@@ -12,8 +12,6 @@ jobs:
 
     container:
       image: elixir:1.9.1-slim
-Run echo "$DOMAIN_NAME" > CNAME
-Fri, 10 Jan 2020 07:49:18 GMT   
     steps:
     - uses: actions/checkout@v1
     - name: Install Dependencies

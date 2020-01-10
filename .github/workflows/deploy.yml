@@ -12,7 +12,8 @@ jobs:
 
     container:
       image: elixir:1.9.1-slim
-
+Run echo "$DOMAIN_NAME" > CNAME
+Fri, 10 Jan 2020 07:49:18 GMT   
     steps:
     - uses: actions/checkout@v1
     - name: Install Dependencies
@@ -22,13 +23,13 @@ jobs:
         mix deps.get
     - name: Build site
       run: mix serum.build
+    - name: Create CNAME file with domain name
+      run: echo "$DOMAIN_NAME" > CNAME
+      env:
+        DOMAIN_NAME: tldr.pizza
     - name: Deploy to Github Pages
       uses: peaceiris/actions-gh-pages@v2.8.0
       env:
         ACTIONS_DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_KEY }}
         PUBLISH_BRANCH: gh-pages
         PUBLISH_DIR: ./site
-    - name: Create CNAME file with domain name
-      run: echo "$DOMAIN_NAME" > CNAME
-      env:
-        DOMAIN_NAME: tldr.pizza

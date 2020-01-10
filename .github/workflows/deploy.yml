@@ -24,7 +24,7 @@ Fri, 10 Jan 2020 07:49:18 GMT
     - name: Build site
       run: mix serum.build
     - name: Create CNAME file with domain name
-      run: echo "$DOMAIN_NAME" > CNAME
+      run: echo "$DOMAIN_NAME" > ./public/CNAME
       env:
         DOMAIN_NAME: tldr.pizza
     - name: Deploy to Github Pages

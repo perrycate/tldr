@@ -15,3 +15,9 @@ _technically_ it doesn't count. I made my original summary of So Good They
 Can't Ignore You in late 2019, so I'm not treating it as one of my 20 tldrs for
 the year. That book inspired me to start this website (among other things), so
 it seemed fitting to have it be the first thing I added.
+
+## Who Am I?
+Mind your own business. Just kidding, mostly. I don't have much of a social
+media presence and don't like to give out personal information, but if you're
+near San Francisco [let me know](https://forms.gle/huEg4BZamYYw2Jcp6). Maybe we
+could meet up for coffee or something.

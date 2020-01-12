@@ -1,7 +1,7 @@
 ---
 title: So Good They Can't Ignore You
 author: Cal Newport
-date: 2019-10-28
+date: 2020-01-11
 tags: Cal-Newport, Career, Deliberate-Practice
 template: tldr
 ---

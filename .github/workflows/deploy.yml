@@ -23,7 +23,7 @@ jobs:
     - name: Build site
       run: mix serum.build
     - name: Create CNAME file with domain name
-      run: echo "$DOMAIN_NAME" > ./public/CNAME
+      run: echo "$DOMAIN_NAME" > ./site/CNAME
       env:
         DOMAIN_NAME: tldr.pizza
     - name: Deploy to Github Pages

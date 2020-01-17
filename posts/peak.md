@@ -1,0 +1,90 @@
+---
+title: Peak
+author: Anders Ericsson and Robert Pool
+date: 2020-01-15
+tags: Anders-Ericsson, Expertise, Deliberate-Practice
+template: tldr
+---
+
+In this book Anders Ericsson (the "Expert" expert) explains just how amazingly
+adaptable our brains are, and how we can best leverage that fact.
+
+**TL;DR** - Stay out of your comfort zone, follow an established regimen (if
+possible), have well-defined and specific goals, and get lots of feedback,
+ideally from a very good teacher.
+
+## Humans can get dramatically better at things in a short timespan
+Examples:
+ * In 2 years Steve Faloon went from an average digit memorization ability (could
+    remember ~7 digits at a time) to 82, a shocking increase for his time.
+ * Between 1973 and 2015 the world record for digits of pi memorized went from
+    511 to 70,000.
+ * In the early 1930s, Alfred Cortot was one of the best musicians, and his
+    recordings of Chopin's "24 Etudes" were considered amazing. Now it's an
+    example of horribly sloppy play.
+ * The marathon record in 1908 was 2 hours, 55 minutes, 8 seconds. Now the
+    world record is 2 hours, 2 minutes, 57 seconds. The old record would barely
+    qualify for the Boston Marathon.
+ * In 1908 the double somersault was nearly banned from Olympic diving for being
+    "too dangerous". Now it's entry-level, and 10-year-olds can do it.
+
+In the 20th century there was a huge increase in the _time_ and _techniques_ for
+practicing these things.
+
+> "No matter what field you study...the most effective types of practice all
+> follow the same set of principles."
+
+## Our brains are amazing
+Even as adults, our brains can change in dramatic ways due to stimulus.
+
+ * The part of the brain used for remembering places (part of the hippocampus) is gigantic in London cabbies
+    * The exam to become an official London cabbie is considered one of the hardest
+       tests in the world.
+    * Prior to (the years long process of) preparing for it, all subjects had
+       average sized hippocampi
+    * After 4 years, the ones that had not dropped out now had much larger hippocampi.
+       Those that had dropped out were closer to average sized.
+    * MRIs of experienced cabbies showed that the longer they had been a cabbie,
+       the bigger that part of the brain was.
+ * Blind people's _visual_ cortex activates up when they "read" braille with
+    their fingertips
+    * Skilled braille readers may use 3 fingers to "read" 3 lines at once.
+    * They can detect _much_ more gentle touches to those fingers, but cannot
+       determine which one of the 3 fingers was touched.
+ * Older people suffering from age-related farsightedness were able to train their
+    brains to compensate for it.
+    * Subjects spent 30 minutes 3x/week for 3 months performing an exercise
+       where they had to spot small images against a very similarly-colored
+       background.
+    * After 3 months they could on average read text that was 60% smaller than
+       they initially could, and read it faster. 
+    * Every subject was now able to read a newspaper without glasses. (Most
+       couldn't initially.)
+    * Their eyes were just as bad as before, but their brains had learned how
+       to "de-blur" the images.
+
+If you practice the right way, your brain (and body) can adapt to do some
+amazing stuff.
+
+## Most people practice the wrong way
+
+The wrong way, aka **naive practice**: Mindlessly and repeatedly doing the same
+routine, expecting to get better for some reason. Research shows that once one
+reaches basic proficiency in the task, this is no longer effective.
+
+Examples:
+ * Playing a game (tennis, Smash, Chess, etc) repeatedly, hoping to improve
+ * Practicing music without feedback
+ * Diagnosing patients without knowing the outcomes. (fun fact: Doctors actually
+    tend to get worse over time. Surgeons are the exception.)
+
+Better approach: **Purposeful Practice**
+ * Has well defined, specific goals
+ * FOCUS! Has your full attention while you're doing it.
+ * Direct feedback. If you can, focus not on whether you're correct, but on
+    what you're doing wrong and why.
+ * _Stay out of your comfort zone._ Keep your goals just on the opposite side of
+    what you're capable of.
+
+Purposeful Practice has limits - trying hard and staying uncomfortable aren't
+enough.

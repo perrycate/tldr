@@ -63,12 +63,51 @@ Even as adults, our brains can change in dramatic ways due to stimulus.
     * Their eyes were just as bad as before, but their brains had learned how
        to "de-blur" the images.
 
-If you practice the right way, your brain (and body) can adapt to do some
-amazing stuff.
+**If you practice the right way, your brain (and body) can adapt to do some
+amazing stuff.**
+
+## Mental Representations
+
+As we get better at something, our brains get better at recognizing patterns
+and encoding information.
+
+Mental representations tend to be preexisting information (faces, combinations
+of muscle movements, board positions, whatever) stored in long term memory.
+  * Makes it easy to recall and apply without using up our finite short term
+     mental capacity
+
+Examples:
+ * Chess grandmasters
+    * Can remember the positions of most or all of the pieces on a chessboard
+       after only a couple seconds of looking at the board, but if you put the
+       pieces in a position that could not occur during a real chess game they
+       are no better at remembering the positions than a novice.
+    * Tend to be very good at playing chess blindfolded without putting much
+       practice into doing so.
+ * Pro divers
+    * Must have lots of control over their bodies in a short timespan, and they
+       do it pretty much unconsciously (after lots of practicing).
+    * Similar to how when we walk we don't have to think about which leg
+       muscles to use.
+ * Others
+    * Memory competitors encode information (like long strings of digits) in
+       "memory palaces"
+    * Baseball players tend to not have much better eyesight or reflexes than
+       most people, but are able to react to the pitcher's movements muuuch faster.
+    * Pro musicians can "hear" the music in their head just by reading the
+       sheet music.
+
+**The better our mental representations are, the better we are at practicing**.
+Better representations allow us to better recognize when and how we make
+mistakes when we practice.
+
+**The better our practice is, the more efficiently we can develop our mental
+representations**
+
 
 ## Most people practice the wrong way
 
-The wrong way, aka **naive practice**: Mindlessly and repeatedly doing the same
+**Naive Practice**: Mindlessly and repeatedly doing the same
 routine, expecting to get better for some reason. Research shows that once one
 reaches basic proficiency in the task, this is no longer effective.
 
@@ -88,3 +127,4 @@ Better approach: **Purposeful Practice**
 
 Purposeful Practice has limits - trying hard and staying uncomfortable aren't
 enough.
+

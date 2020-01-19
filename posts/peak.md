@@ -97,6 +97,9 @@ Examples:
     * Pro musicians can "hear" the music in their head just by reading the
        sheet music.
 
+Psychologists are just beginning to study the role of mental representations in
+expertise, but this much is known:
+
 **The better our mental representations are, the better we are at practicing**.
 Better representations allow us to better recognize when and how we make
 mistakes when we practice.
@@ -112,7 +115,7 @@ routine, expecting to get better for some reason. Research shows that once one
 reaches basic proficiency in the task, this is no longer effective.
 
 Examples:
- * Playing a game (tennis, Smash, Chess, etc) repeatedly, hoping to improve
+ * Playing a game (Tennis, Smash, Chess, etc) repeatedly, hoping to improve
  * Practicing music without feedback
  * Diagnosing patients without knowing the outcomes. (fun fact: Doctors actually
     tend to get worse over time. Surgeons are the exception.)
@@ -120,11 +123,43 @@ Examples:
 Better approach: **Purposeful Practice**
  * Has well defined, specific goals
  * FOCUS! Has your full attention while you're doing it.
- * Direct feedback. If you can, focus not on whether you're correct, but on
-    what you're doing wrong and why.
+ * Direct feedback. Focus not on whether you're correct, but on what you're
+    doing wrong and why.
  * _Stay out of your comfort zone._ Keep your goals just on the opposite side of
     what you're capable of.
 
 Purposeful Practice has limits - trying hard and staying uncomfortable aren't
 enough.
 
+The best approach: **Deliberate Practice**
+
+## Deliberate Practice
+
+Prerequisites:
+ * Well established, competitive fields with objective(ish) success criteria
+ * A teacher who can provide individual practice activities to help rapidly
+    develop your mental representations
+
+Deliberate Practice is Purposeful Practice with the following additions:
+ * Use well-established training techniques designed and overseen by
+    a teacher or coach.
+ * _Do not_ just follow your teacher's directions. Concentrate on your specific
+    goal and on figuring out what adjustments need to be made to your
+    performance.
+ * Modify your answers in response to feedback, and gradually learn how to
+    monitor and spot your own mistakes.
+ * Focus on refining your mental representations.
+ * Make sure you have rock-solid fundamentals. You'll be building on them.
+
+### What if your field isn't well established or doesn't have established best training practices?
+ * Study the best in the field and figure out what specifically enables them to
+    perform so well
+ * Judge who is the "best" by the most objective, reproducible metrics you can
+    come up with
+ * Tip: Seek out the judgement of people that have to work closely with many
+    other professionals, such as a nurse that is on many surgery teams (if
+    figuring out who's the best surgeon), or a coach who coaches the best.
+
+
+# NTS
+Hours spent matters a lot (96)

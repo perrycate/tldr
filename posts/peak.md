@@ -6,7 +6,7 @@ tags: Anders-Ericsson, Expertise, Deliberate-Practice
 template: tldr
 ---
 
-In this book Anders Ericsson (the "Expert" expert) explains just how amazingly
+In this book Anders Ericsson ("the Expert expert") explains just how amazingly
 adaptable our brains are, and how we can best leverage that fact.
 
 **TL;DR** - Stay out of your comfort zone, follow an established regimen (if
@@ -49,8 +49,7 @@ Even as adults, our brains can change in dramatic ways due to stimulus.
  * Blind people's _visual_ cortex activates up when they "read" braille with
     their fingertips
     * Skilled braille readers may use 3 fingers to "read" 3 lines at once.
-    * They can detect _much_ more gentle touches to those fingers, but cannot
-       determine which one of the 3 fingers was touched.
+    * They can detect _much_ more gentle touches to those fingers.
  * Older people suffering from age-related farsightedness were able to train their
     brains to compensate for it.
     * Subjects spent 30 minutes 3x/week for 3 months performing an exercise
@@ -117,8 +116,7 @@ reaches basic proficiency in the task, this is no longer effective.
 Examples:
  * Playing a game (Tennis, Smash, Chess, etc) repeatedly, hoping to improve
  * Practicing music without feedback
- * Diagnosing patients without knowing the outcomes. (fun fact: Doctors actually
-    tend to get worse over time. Surgeons are the exception.)
+ * Diagnosing patients without later learning if you were correct.
 
 Better approach: **Purposeful Practice**
  * Has well defined, specific goals
@@ -135,21 +133,18 @@ The best approach: **Deliberate Practice**
 
 ## Deliberate Practice
 
-Prerequisites:
- * Well established, competitive fields with objective(ish) success criteria
- * A teacher who can provide individual practice activities to help rapidly
-    develop your mental representations
-
 Deliberate Practice is Purposeful Practice with the following additions:
  * Use well-established training techniques designed and overseen by
     a teacher or coach.
+ * Make sure you have rock-solid fundamentals. You'll be building on them.
  * _Do not_ just follow your teacher's directions. Concentrate on your specific
     goal and on figuring out what adjustments need to be made to your
     performance.
- * Modify your answers in response to feedback, and gradually learn how to
+ * Modify your training in response to feedback, and gradually learn how to
     monitor and spot your own mistakes.
  * Focus on refining your mental representations.
- * Make sure you have rock-solid fundamentals. You'll be building on them.
+    * What types of common patterns do you see?
+    * What is most important to keep track of as you perform the activity?
 
 ### What if your field isn't well established or doesn't have established best training practices?
  * Study the best in the field and figure out what specifically enables them to
@@ -159,7 +154,139 @@ Deliberate Practice is Purposeful Practice with the following additions:
  * Tip: Seek out the judgement of people that have to work closely with many
     other professionals, such as a nurse that is on many surgery teams (if
     figuring out who's the best surgeon), or a coach who coaches the best.
+ * Mimic their training techniques:
+    * What do they do differently?
+    * What are their mental representations?
+
+### Deliberate Practice at Work
+
+Avoid "business as usual" mindset! Remember:
+
+ * Your abilities are _not_ limited by born traits. Avoid "I can't", or "I'm not good at \___" thinking.
+ * Doing something a lot does _not_ mean you'll get better at it.
+ * Effort is _not_ all you need to improve.
+
+See everything as an opportunity for feedback and improvement, especially if
+it's something that reoccurs frequently.
+
+If in doubt:
+Set up a situation that mimics real-world scenarios and gives you the chance to
+practice repeatedly with lots of feedback and a lower cost of failure.
+
+Prioritize skills over knowledge
+learn by doing
+business-world training tends to focus on knowledge because it's dumb
+
+### Deliberate Practice IRL - tips and tricks
+
+#### Can't find a good teacher?. Focus on the 3 Fs:
+
+**Focus** - Be fully engaged in your practice. Concentrate intently on the details of what you're doing.
+**Feedback** - Analyze what you're doing and what's going wrong. When and why are you making mistakes?
+**Fix it** - Figure out ways to practice more effectively and address your mistakes 
+
+#### Stuck at a plateau? Try to challenge yourself in a different way:
+* Mix up the routine
+* Modify parameters
+* Try pushing yourself harder than usual, allowing yourself to fail. What do you mess up on first? Where do the mistakes come from?
+
+#### Having motivation issues?
+
+ * Develop an official regimen (Ideally at least 1 hour/day)
+ * Allocate dedicated, regular time for your routine in your schedule
+ * Minimize distractions (turn phone off and put in another room, etc)
+ * Surround yourself with people who support your endeavors. (Supportive friends and/or others who are doing the same thing)
+ * Focus on one small, manageable goal (can be totally arbitrary) at a time so you can see improvement more easily
+ 
+It will get easier to stick to your regimen as you mind/body adapts to the routine
+
+#### Side note: "Willpower genes" aren't a thing
+There's very little scientific evidence that some people just have bigger
+"willpower reserves". People who study obsessively in one field aren't any more
+dedicated than everyone else people in unrelated fields.
 
 
-# NTS
-Hours spent matters a lot (96)
+## Pathway of a Prodigy
+
+Research suggests that becoming the literal best in the world at something
+depends more on how you were raised, rather than inherent gifts. Researchers
+identified 3 stages of development common to the development of 120 experts
+(best in their field) in piano, swimming, tennis, mathematics, research
+neurology, and sculpting. The patterns seem to also be present in other fields.
+
+
+### Sometimes you have to start young
+
+For many fields, there aren't any physical limitations for adults that can't be
+overcome. (Usually lack of free time matters much more.) That said, there are
+some cases where you have to start as a child:
+
+ * Physical ability: We peak at a certain age, and if you start later your body
+    can't adapt as well.
+    * Certain hip and knee joints calcify (turn from cartilage to bone) around
+       10 years old. Ballerinas have to start before then or they can never
+       develop the same range of motion they otherwise would.
+    * Skeletal adaptations (such as tennis players' dominant arm bones becoming
+       up to 20% denser than their other arm) will be more significant if they
+       happen during puberty
+    * Age of athletes is increasing with modern technology though
+ * Brain development: Some (not all) parts of the brain in professional
+    musicians are only enlarged if they started before 7.
+    * Science of this is not well understood yet.
+
+* However, not insurmountable: perfect pitch for example can be improved via training
+
+
+### Steps to becoming a prodigy
+
+(Perry's note - I do not necessarily condone treating your child as an experiment.)
+
+#### 1. Starting out
+ * Child (around age 1-3) is introduced to the field they are to become experts
+    in.
+ * Introduction occurs via play. Examples:
+    * Playing with Chess pieces and arranging them on a board
+    * Throwing a ball
+    * Organizing marbles by shape or pattern
+
+#### 2. Becoming serious
+
+ * In physical fields such as skating, the child begins deliberate practice
+    with a coach.
+    * The first instructors must be good with kids, to foster their enthusiasm.
+    * Parents work with the kids establish practice routines and ~~force them~~
+       help them stick to it
+ * In other fields like math, the students probably won't have a tutor
+    * Their teachers still help spark their interest and intellectual curiosity.
+    * More of a focus on _why_ than _how_ when solving problems.
+ * In this stage it's important that the child gets lots of positive encouragement
+    from parents and teachers.
+    * As the child progresses, they become increasingly self-motivated.
+    * Eventually the child will seek to improve without any prompting necessary,
+       as their skill becomes part of their identity.
+
+#### 3. Commitment
+
+ * Around early- to mid-teens, the child makes a commitment to become the best they
+    can be.
+ * The child seeks out increasingly prominent teachers - often those who have
+    themselves reached the highest levels in the field.
+ * The dedication to the field basically becomes the child's entire life.
+ * Motivation lies solely with the child, but the family still plays a crucial role:
+    * May need to move across the country to train with the best coach
+    * Often requires that the family have tons of money for lessons, transportation, tournaments, academies, etc.
+
+### Each new prodigy paves the way for other experts
+
+ * Others learn from the best in the field.
+    * Maybe the best shares their techniques
+    * Maybe the others just observe what the best is doing and imitate
+    * Maybe just the knowledge of what is now possible is enough to motivate new challengers.
+
+## Natural Talent
+Not really a thing.
+
+### NTS
+ * Hours spent matters a lot (96), but the 10K hour "rule" isn't a rule (109)
+ * More examples of deliberate practice being awesome:
+    * Top gun (116ish)

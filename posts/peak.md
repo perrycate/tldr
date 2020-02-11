@@ -283,8 +283,24 @@ some cases where you have to start as a child:
     * Maybe the others just observe what the best is doing and imitate
     * Maybe just the knowledge of what is now possible is enough to motivate new challengers.
 
-## Natural Talent
-Not really a thing.
+## So, what about "Natural Talent"?
+It's not really a thing.
+
+### No matter how gifted they may seem, everyone has to work to get where they are.
+
+### When people say "I'm not good at something" it becomes a self-fulfilling prophecy.
+
+### Examples:
+
+#### Violin guy
+
+#### IQ and Chess
+
+#### Example: Singing
+ * "Tone deaf"
+ * Perfect Pitch
+
+#### Canadian Hockey players
 
 ### NTS
  * Hours spent matters a lot (96), but the 10K hour "rule" isn't a rule (109)

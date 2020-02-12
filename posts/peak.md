@@ -67,13 +67,34 @@ amazing stuff.**
 
 ## Mental Representations
 
-As we get better at something, our brains get better at recognizing patterns
-and encoding information.
+As we get better at a task, our brains get better at recognizing patterns
+and encoding information related to that task.
 
-Mental representations tend to be preexisting information (faces, combinations
-of muscle movements, board positions, whatever) stored in long term memory.
-  * Makes it easy to recall and apply without using up our finite short term
-     mental capacity
+#### Our short-term memory is really bad
+ * We can only hold about 7 things in our mind at once.
+    * Most people can repeat back a string of 7 digits (plus or minus one)
+       immediately after hearing them, but no more.
+    * This appears to be a general limit
+    * Makes it impossible to focus on many things at once. Some examples:
+       * Notes in a song
+       * Positions in a football play
+       * Sequence of movements to shoot a 3-point goal
+
+#### Mental Representations get around these limitations
+ * As we practice a skill, our brain rewires itself to recognize common
+    patterns and leverage long-term memory.
+ * **Mental Representations**: Adaptations that occur in our brain to aid the
+    brain in performing some task.
+ * This is why, when we walk, we don't have to focus on extending and flexing
+    our leg muscles.
+    * We decide we want to walk somewhere, and our legs know what to do.
+    * Our brain has stored the necessary sequence of movements in long-term
+       memory, so we don't have to use up precious slots in short-term memory
+       just to walk properly.
+ * Types of mental representations vary greatly, and are a relatively new field
+    of study.
+ * In general, they are what allow complicated tasks to become second nature to
+    experts.
 
 Examples:
  * Chess grandmasters
@@ -283,7 +304,7 @@ some cases where you have to start as a child:
     * Maybe the others just observe what the best is doing and imitate
     * Maybe just the knowledge of what is now possible is enough to motivate new challengers.
 
-## So, what about "Natural Talent"?
+## The "Natural Talent" Myth
 It's not really a thing.
 
 ### No matter how gifted they may seem, everyone has to work to get where they are.

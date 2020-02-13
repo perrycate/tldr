@@ -96,7 +96,7 @@ and encoding information related to that task.
  * In general, they are what allow complicated tasks to become second nature to
     experts.
 
-Examples:
+#### Examples:
  * Chess grandmasters
     * Can remember the positions of most or all of the pieces on a chessboard
        after only a couple seconds of looking at the board, but if you put the
@@ -117,16 +117,15 @@ Examples:
     * Pro musicians can "hear" the music in their head just by reading the
        sheet music.
 
-Psychologists are just beginning to study the role of mental representations in
-expertise, but this much is known:
-
 **The better our mental representations are, the better we are at practicing**.
-Better representations allow us to better recognize when and how we make
-mistakes when we practice.
+
+Having better mental representations makes it easier to recognize what we're
+doing wrong and figure out how to correct our mistakes.
 
 **The better our practice is, the more efficiently we can develop our mental
 representations**
-
+"Good" practice should be designed around helping our brains form those mental
+representations as quickly as possible.
 
 ## Most people practice the wrong way
 

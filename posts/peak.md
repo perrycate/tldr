@@ -303,24 +303,36 @@ some cases where you have to start as a child:
     * Maybe the others just observe what the best is doing and imitate
     * Maybe just the knowledge of what is now possible is enough to motivate new challengers.
 
-## The "Natural Talent" Myth
-It's not really a thing.
+## The role of "Natural Talent"
 
-### No matter how gifted they may seem, everyone has to work to get where they are.
+### The idea of being gifted from birth at something is not supported by science
+
+#### Child prodigies
+From last section, not about inherent gifts but about relentless discipline from
+a young age
+
+Mozart, other examples?
+
+#### Anti-prodigies
+ * "Tone deaf"
+
+### "Mental Ability" is pretty bogus
+
+#### (Lack of) correlation between IQ and skill at mental tasks
+Define IQ
+IQ correlation at low levels of chess
+slight _negative_ correlation at elite levels
+
+#### IQs and researchers
 
 ### When people say "I'm not good at something" it becomes a self-fulfilling prophecy.
 
-### Examples:
+Hockey players
 
-#### Violin guy
 
-#### IQ and Chess
 
-#### Example: Singing
- * "Tone deaf"
- * Perfect Pitch
 
-#### Canadian Hockey players
+No correlation between skill levels of junior athletes and elite athletes
 
 ### NTS
  * Hours spent matters a lot (96), but the 10K hour "rule" isn't a rule (109)

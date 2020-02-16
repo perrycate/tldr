@@ -180,22 +180,31 @@ Deliberate Practice is Purposeful Practice with the following additions:
 
 ### Deliberate Practice at Work
 
-Avoid "business as usual" mindset! Remember:
+Avoid the "business as usual" mindset! Remember:
 
  * Your abilities are _not_ limited by born traits. Avoid "I can't", or "I'm not good at \___" thinking.
  * Doing something a lot does _not_ mean you'll get better at it.
  * Effort is _not_ all you need to improve.
 
-See everything as an opportunity for feedback and improvement, especially if
-it's something that reoccurs frequently.
+Everything is an opportunity for feedback and improvement. Make the most of it!
 
-If in doubt:
-Set up a situation that mimics real-world scenarios and gives you the chance to
-practice repeatedly with lots of feedback and a lower cost of failure.
+#### Seek repeatable, real-world scenarios with a low cost of failure
+ * In the late 60s, the U.S. Navy set up a fighter jet training program ("Top Gun") 
+    in which the best pilots they had fought their second best fighters
+    (without bullets)
+ * No curriculum, just many, many dogfights but without the dying
+ * After 1 year, the rate of enemy fighters shot down per U.S. fighters lost went
+    from 1 : 1 to 12.5 : 1!
 
-Prioritize skills over knowledge
-learn by doing
-business-world training tends to focus on knowledge because it's dumb
+#### Ask questions to yourself
+Every day in the Top Gun program after the fighting stopped, the trainers would
+grill the students:
+ * What did you notice while you were up there?
+ * What actions did you take? Why?
+ * What were your mistakes? What could you have done differently?
+
+Eventually the students automatically would ask themselves these questions, and
+you should too.
 
 ### Deliberate Practice IRL - tips and tricks
 
@@ -336,5 +345,3 @@ No correlation between skill levels of junior athletes and elite athletes
 
 ### NTS
  * Hours spent matters a lot (96), but the 10K hour "rule" isn't a rule (109)
- * More examples of deliberate practice being awesome:
-    * Top gun (116ish)

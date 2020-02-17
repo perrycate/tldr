@@ -208,7 +208,7 @@ you should too.
 
 ### Deliberate Practice IRL - tips and tricks
 
-#### Can't find a good teacher?. Focus on the 3 Fs:
+#### Can't find a good teacher? Focus on the 3 Fs:
 
 **Focus** - Be fully engaged in your practice. Concentrate intently on the details of what you're doing.
 **Feedback** - Analyze what you're doing and what's going wrong. When and why are you making mistakes?
@@ -316,29 +316,44 @@ some cases where you have to start as a child:
 
 ### The idea of being gifted from birth at something is not supported by science
 
-#### Child prodigies
-From last section, not about inherent gifts but about relentless discipline from
-a young age
+#### Practice trumps everything
+ * Being a prodigy comes from focused practice, not inherent skill
+ * Mozart's father was a composer, gave him an incredibly intense musical
+    training from an early age.
+ * Pablo Picasso (known for unique later paintings) started out imitating other
+    artists and gradually developed his own style as he grew more skilled
+ * The skills that some "savants" have (such as rapid date calculation) have
+    been shown to be learnable
 
-Mozart, other examples?
-
-#### Anti-prodigies
- * "Tone deaf"
-
-### "Mental Ability" is pretty bogus
+#### The "Magical high jumper" Donald Thomas
+ * Allegedly attempted a high jump on a dare in college, did super well,
+    started competing and became famous for his "natural gift". In reality:
+ * He actually already had some practice at high jumping from high school
+ * Prior to high jump, he spent a bunch of his life practicing dunking, which
+    develops similar skills
+ * He hasn't developed nearly as much since he was "discovered" as one would
+    expect.
+ * If you look closely at the stories of other people like this, it ends up
+    being a similar story.
 
 #### (Lack of) correlation between IQ and skill at mental tasks
-Define IQ
-IQ correlation at low levels of chess
-slight _negative_ correlation at elite levels
+ * IQ essentially measures how quickly one learns certain types of information.
+ * At low levels of Chess, people with a higher IQ tend to do better.
+ * At elite levels of Chess, there's actually a slight _negative_ correlation!
+    * People with higher IQs may learn the game faster, giving them an edge
+    * Researchers hypothesize that at elite levels, the people that had to work
+       harder to initially learn the game have already developed better
+       practice routines than those that had an easier time early on.
 
-#### IQs and researchers
+ * Data suggests that one needs a minimum IQ of 110-120 to be a successful
+    researcher
 
 ### When people say "I'm not good at something" it becomes a self-fulfilling prophecy.
 
-Hockey players
+#### Far more professional hockey players were born on January-March than October-December
+ * 
 
-
+Tone deaf
 
 
 No correlation between skill levels of junior athletes and elite athletes

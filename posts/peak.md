@@ -28,8 +28,9 @@ Examples:
  * In 1908 the double somersault was nearly banned from Olympic diving for being
     "too dangerous". Now it's entry-level, and 10-year-olds can do it.
 
-In the 20th century there was a huge increase in the _time_ and _techniques_ for
-practicing these things.
+Humans didn't magically get way faster, smarter, or more coordinated in the
+last few generations. These improvements were caused by an improvement in the
+_time_ and _techniques_ to practice these things.
 
 > "No matter what field you study...the most effective types of practice all
 > follow the same set of principles."
@@ -42,23 +43,23 @@ Even as adults, our brains can change in dramatic ways due to stimulus.
        tests in the world.
     * Prior to (the years long process of) preparing for it, all subjects had
        average sized hippocampi
-    * After 4 years, the ones that had not dropped out now had much larger hippocampi.
+    * After 4 years, the ones that had not dropped out had much larger hippocampi.
        Those that had dropped out were closer to average sized.
     * MRIs of experienced cabbies showed that the longer they had been a cabbie,
        the bigger that part of the brain was.
  * Blind people's _visual_ cortex activates up when they "read" braille with
     their fingertips
     * Skilled braille readers may use 3 fingers to "read" 3 lines at once.
-    * They can detect _much_ more gentle touches to those fingers.
+    * They can detect _much_ more gentle touches to those fingers than other
+       people.
  * Older people suffering from age-related farsightedness were able to train their
-    brains to compensate for it.
+    brains to compensate
     * Subjects spent 30 minutes 3x/week for 3 months performing an exercise
        where they had to spot small images against a very similarly-colored
        background.
-    * After 3 months they could on average read text that was 60% smaller than
-       they initially could, and read it faster. 
-    * Every subject was now able to read a newspaper without glasses. (Most
-       couldn't initially.)
+    * After 3 months they could on average read 60% smaller text than
+       before, and read it faster. 
+    * Every subject gained the ability to read a newspaper without glasses.
     * Their eyes were just as bad as before, but their brains had learned how
        to "de-blur" the images.
 
@@ -85,31 +86,31 @@ and encoding information related to that task.
     patterns and leverage long-term memory.
  * **Mental Representations**: Adaptations that occur in our brain to aid the
     brain in performing some task.
- * This is why, when we walk, we don't have to focus on extending and flexing
+ * This is why, when we walk, we don't have to concentrate on extending and flexing
     our leg muscles.
     * We decide we want to walk somewhere, and our legs know what to do.
     * Our brain has stored the necessary sequence of movements in long-term
        memory, so we don't have to use up precious slots in short-term memory
        just to walk properly.
- * Types of mental representations vary greatly, and are a relatively new field
-    of study.
+ * Mental representations are a relatively new field of study, and vary greatly
+    between skills.
  * In general, they are what allow complicated tasks to become second nature to
     experts.
 
 #### Examples:
  * Chess grandmasters
+    * Tend to be very good at playing chess blindfolded without putting much
+       practice into doing so.
     * Can remember the positions of most or all of the pieces on a chessboard
        after only a couple seconds of looking at the board, but if you put the
        pieces in a position that could not occur during a real chess game they
        are no better at remembering the positions than a novice.
-    * Tend to be very good at playing chess blindfolded without putting much
-       practice into doing so.
  * Pro divers
     * Must have lots of control over their bodies in a short timespan, and they
        do it pretty much unconsciously (after lots of practicing).
     * Similar to how when we walk we don't have to think about which leg
        muscles to use.
- * Others
+ * Other examples
     * Memory competitors encode information (like long strings of digits) in
        "memory palaces"
     * Baseball players tend to not have much better eyesight or reflexes than
@@ -370,3 +371,8 @@ The same effect is present in other sports, like soccer.
     sing at some point, and stopped trying after that.
 
 How many people feel the same in other areas? How many people are "bad at math"?
+
+## NTS
+Should've split brain vs body (or not at all)
+Need to have high-level structure to begin with
+Don't ask for feedback until draft is completely ready

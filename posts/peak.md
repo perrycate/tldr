@@ -351,12 +351,22 @@ some cases where you have to start as a child:
 ### When people say "I'm not good at something" it becomes a self-fulfilling prophecy.
 
 #### Far more professional hockey players were born on January-March than October-December
- * 
+ * To play youth hockey in Canada, you must be a certain age by Dec. 13 of the
+    previous year. 
+ * People born early in the year are nearly a year older than the kids born
+    later in the year, so they're taller, heavier, more coordinated, etc.
+ * Those children get more praise and attention from the coaches, and the
+    younger children just assume they're not as good.
+ * The older children are more motivated to continue, so they keep getting
+    better
 
-Tone deaf
+The same effect is present in other sports, like soccer.
 
+#### "Tone-deafness" is _incredibly_ rare
+ * 1 in 6 American adults think they can't sing or are tone deaf
+ * Real tone deafness is so rare, the discovery of such a person made it into
+    a major scientific journal
+ * The people who think they're tone deaf usually were told that they couldn't
+    sing at some point, and stopped trying after that.
 
-No correlation between skill levels of junior athletes and elite athletes
-
-### NTS
- * Hours spent matters a lot (96), but the 10K hour "rule" isn't a rule (109)
+How many people feel the same in other areas? How many people are "bad at math"?

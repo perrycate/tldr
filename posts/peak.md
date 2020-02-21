@@ -38,28 +38,28 @@ _time_ and _techniques_ to practice these things.
 ## Our brains are amazing
 Even as adults, our brains can change in dramatic ways due to stimulus.
 
- * The part of the brain used for remembering places (part of the hippocampus) is gigantic in London cabbies
+ * The part of the brain used for remembering places (part of the hippocampus) is gigantic in London cabbies.
     * The exam to become an official London cabbie is considered one of the hardest
        tests in the world.
     * Prior to (the years long process of) preparing for it, all subjects had
-       average sized hippocampi
+       average sized hippocampi.
     * After 4 years, the ones that had not dropped out had much larger hippocampi.
        Those that had dropped out were closer to average sized.
     * MRIs of experienced cabbies showed that the longer they had been a cabbie,
        the bigger that part of the brain was.
  * Blind people's _visual_ cortex activates up when they "read" braille with
-    their fingertips
+    their fingertips.
     * Skilled braille readers may use 3 fingers to "read" 3 lines at once.
     * They can detect _much_ more gentle touches to those fingers than other
        people.
  * Older people suffering from age-related farsightedness were able to train their
-    brains to compensate
+    brains to compensate.
     * Subjects spent 30 minutes 3x/week for 3 months performing an exercise
        where they had to spot small images against a very similarly-colored
        background.
     * After 3 months they could on average read 60% smaller text than
        before, and read it faster. 
-    * Every subject gained the ability to read a newspaper without glasses.
+    * Every subject gained the ability to read a newspaper without glasses(!)
     * Their eyes were just as bad as before, but their brains had learned how
        to "de-blur" the images.
 
@@ -73,9 +73,9 @@ and encoding information related to that task.
 
 #### Our short-term memory is really bad
  * We can only hold about 7 things in our mind at once.
-    * Most people can repeat back a string of 7 digits (plus or minus one)
+    * Most people can repeat back a string of 7 digits (plus or minus 1)
        immediately after hearing them, but no more.
-    * This appears to be a general limit
+    * This appears to be a general limit.
     * Makes it impossible to focus on many things at once. Some examples:
        * Notes in a song
        * Positions in a football play
@@ -112,7 +112,7 @@ and encoding information related to that task.
        muscles to use.
  * Other examples
     * Memory competitors encode information (like long strings of digits) in
-       "memory palaces"
+       "memory palaces".
     * Baseball players tend to not have much better eyesight or reflexes than
        most people, but are able to react to the pitcher's movements muuuch faster.
     * Pro musicians can "hear" the music in their head just by reading the
@@ -124,7 +124,8 @@ Having better mental representations makes it easier to recognize what we're
 doing wrong and figure out how to correct our mistakes.
 
 **The better our practice is, the more efficiently we can develop our mental
-representations**
+representations**.
+
 "Good" practice should be designed around helping our brains form those mental
 representations as quickly as possible.
 
@@ -137,15 +138,15 @@ reaches basic proficiency in the task, this is no longer effective.
 Examples:
  * Playing a game (Tennis, Smash, Chess, etc) repeatedly, hoping to improve
  * Practicing music without feedback
- * Diagnosing patients without later learning if you were correct.
+ * Diagnosing patients without later learning if you were correct
 
 Better approach: **Purposeful Practice**
  * Has well defined, specific goals
- * FOCUS! Has your full attention while you're doing it.
+ * FOCUS! Has your full attention while you're doing it
  * Direct feedback. Focus not on whether you're correct, but on what you're
-    doing wrong and why.
+    doing wrong and why
  * _Stay out of your comfort zone._ Keep your goals just on the opposite side of
-    what you're capable of.
+    what you're capable of
 
 Purposeful Practice has limits - trying hard and staying uncomfortable aren't
 enough.
@@ -158,24 +159,24 @@ Deliberate Practice is Purposeful Practice with the following additions:
  * Use well-established training techniques designed and overseen by
     a teacher or coach.
  * Make sure you have rock-solid fundamentals. You'll be building on them.
- * _Do not_ just follow your teacher's directions. Concentrate on your specific
-    goal and on figuring out what adjustments need to be made to your
+ * _Do not_ mindlessly follow your teacher's directions. Concentrate on your
+    specific goal and on figuring out what adjustments need to be made to your
     performance.
- * Modify your training in response to feedback, and gradually learn how to
-    monitor and spot your own mistakes.
+ * Modify your training in response to feedback, and gradually learn to spot
+    your own mistakes.
  * Focus on refining your mental representations.
     * What types of common patterns do you see?
     * What is most important to keep track of as you perform the activity?
 
-### What if your field isn't well established or doesn't have established best training practices?
+### What if your field isn't well established or doesn't have canonical best training practices?
  * Study the best in the field and figure out what specifically enables them to
-    perform so well
+    perform so well.
  * Judge who is the "best" by the most objective, reproducible metrics you can
-    come up with
+    come up with.
  * Tip: Seek out the judgement of people that have to work closely with many
     other professionals, such as a nurse that is on many surgery teams (if
     figuring out who's the best surgeon), or a coach who coaches the best.
- * Mimic their training techniques:
+ * Mimic the training techniques of the best people:
     * What do they do differently?
     * What are their mental representations?
 
@@ -184,7 +185,7 @@ Deliberate Practice is Purposeful Practice with the following additions:
 Avoid the "business as usual" mindset! Remember:
 
  * Your abilities are _not_ limited by born traits. Avoid "I can't", or "I'm not good at \___" thinking.
- * Doing something a lot does _not_ mean you'll get better at it.
+ * Only doing something a lot does _not_ mean you'll get better at it.
  * Effort is _not_ all you need to improve.
 
 Everything is an opportunity for feedback and improvement. Make the most of it!
@@ -192,43 +193,49 @@ Everything is an opportunity for feedback and improvement. Make the most of it!
 #### Seek repeatable, real-world scenarios with a low cost of failure
  * In the late 60s, the U.S. Navy set up a fighter jet training program ("Top Gun") 
     in which the best pilots they had fought their second best fighters
-    (without bullets)
- * No curriculum, just many, many dogfights but without the dying
+    (without bullets).
+ * There was no curriculum, just many, many dogfights but without the dying.
  * After 1 year, the rate of enemy fighters shot down per U.S. fighters lost went
     from 1 : 1 to 12.5 : 1!
 
 #### Ask questions to yourself
 Every day in the Top Gun program after the fighting stopped, the trainers would
-grill the students:
+question the students:
  * What did you notice while you were up there?
  * What actions did you take? Why?
  * What were your mistakes? What could you have done differently?
 
-Eventually the students automatically would ask themselves these questions, and
-you should too.
+Eventually the students automatically would ask themselves these questions.
+You should, too.
 
 ### Deliberate Practice IRL - tips and tricks
 
 #### Can't find a good teacher? Focus on the 3 Fs:
 
-**Focus** - Be fully engaged in your practice. Concentrate intently on the details of what you're doing.
-**Feedback** - Analyze what you're doing and what's going wrong. When and why are you making mistakes?
-**Fix it** - Figure out ways to practice more effectively and address your mistakes 
+**Focus** - Be fully engaged in your practice. Concentrate intently on the
+details of what you're doing.
+**Feedback** - Analyze what you're doing and what's going wrong. When and why
+are you making mistakes?
+**Fix it** - Figure out ways to practice more effectively and address your
+mistakes 
 
 #### Stuck at a plateau? Try to challenge yourself in a different way:
-* Mix up the routine
-* Modify parameters
+* Mix up the routine.
+* Modify the goals/success metrics.
 * Try pushing yourself harder than usual, allowing yourself to fail. What do you mess up on first? Where do the mistakes come from?
 
 #### Having motivation issues?
 
- * Develop an official regimen (Ideally at least 1 hour/day)
- * Allocate dedicated, regular time for your routine in your schedule
- * Minimize distractions (turn phone off and put in another room, etc)
- * Surround yourself with people who support your endeavors. (Supportive friends and/or others who are doing the same thing)
- * Focus on one small, manageable goal (can be totally arbitrary) at a time so you can see improvement more easily
+ * Develop an official regimen (Ideally at least 1 hour/day).
+ * Allocate dedicated, regular time for your routine in your schedule.
+ * Minimize distractions (turn phone off and put in another room, etc).
+ * Surround yourself with people who support your endeavors. (Supportive
+    friends and/or others who are doing the same thing.)
+ * Focus on one small, manageable goal (can be totally arbitrary) at a time so
+    you can see improvement more easily.
  
-It will get easier to stick to your regimen as you mind/body adapts to the routine
+It will get easier to stick to your regimen as you mind/body adapts to the
+routine.
 
 #### Side note: "Willpower genes" aren't a thing
 There's very little scientific evidence that some people just have bigger
@@ -258,13 +265,14 @@ some cases where you have to start as a child:
        develop the same range of motion they otherwise would.
     * Skeletal adaptations (such as tennis players' dominant arm bones becoming
        up to 20% denser than their other arm) will be more significant if they
-       happen during puberty
-    * Age of athletes is increasing with modern technology though
+       happen during puberty.
+    * That said, the upper bound of average athlete ages is increasing with modern
+       technology.
  * Brain development: Some (not all) parts of the brain in professional
     musicians are only enlarged if they started before 7.
     * Science of this is not well understood yet.
-
-* However, not insurmountable: perfect pitch for example can be improved via training
+    * Not insurmountable, though: perfect pitch, for example, can be improved
+       via training.
 
 
 ### Steps to becoming a prodigy
@@ -285,8 +293,8 @@ some cases where you have to start as a child:
     with a coach.
     * The first instructors must be good with kids, to foster their enthusiasm.
     * Parents work with the kids establish practice routines and ~~force them~~
-       help them stick to it
- * In other fields like math, the students probably won't have a tutor
+       help them stick to it.
+ * In other fields like math, the students probably won't have a tutor.
     * Their teachers still help spark their interest and intellectual curiosity.
     * More of a focus on _why_ than _how_ when solving problems.
  * In this stage it's important that the child gets lots of positive encouragement
@@ -297,8 +305,8 @@ some cases where you have to start as a child:
 
 #### 3. Commitment
 
- * Around early- to mid-teens, the child makes a commitment to become the best they
-    can be.
+ * Around early- to mid-teens, the child makes a commitment to become the best
+    they can be.
  * The child seeks out increasingly prominent teachers - often those who have
     themselves reached the highest levels in the field.
  * The dedication to the field basically becomes the child's entire life.
@@ -311,27 +319,28 @@ some cases where you have to start as a child:
  * Others learn from the best in the field.
     * Maybe the best shares their techniques
     * Maybe the others just observe what the best is doing and imitate
-    * Maybe just the knowledge of what is now possible is enough to motivate new challengers.
+    * Maybe just the knowledge of what is now possible is enough to motivate
+       new challengers
 
 ## The role of "Natural Talent"
 
 ### The idea of being gifted from birth at something is not supported by science
 
 #### Practice trumps everything
- * Being a prodigy comes from focused practice, not inherent skill
+ * Being a prodigy comes from focused practice, not inherent skill.
  * Mozart's father was a composer, gave him an incredibly intense musical
     training from an early age.
  * Pablo Picasso (known for unique later paintings) started out imitating other
     artists and gradually developed his own style as he grew more skilled
  * The skills that some "savants" have (such as rapid date calculation) have
-    been shown to be learnable
+    been shown to be learnable.
 
 #### The "Magical high jumper" Donald Thomas
  * Allegedly attempted a high jump on a dare in college, did super well,
     started competing and became famous for his "natural gift". In reality:
- * He actually already had some practice at high jumping from high school
+ * He actually already had some practice at high jumping from high school.
  * Prior to high jump, he spent a bunch of his life practicing dunking, which
-    develops similar skills
+    develops similar skills.
  * He hasn't developed nearly as much since he was "discovered" as one would
     expect.
  * If you look closely at the stories of other people like this, it ends up
@@ -341,13 +350,10 @@ some cases where you have to start as a child:
  * IQ essentially measures how quickly one learns certain types of information.
  * At low levels of Chess, people with a higher IQ tend to do better.
  * At elite levels of Chess, there's actually a slight _negative_ correlation!
-    * People with higher IQs may learn the game faster, giving them an edge
+    * People with higher IQs may learn the game faster, giving them an edge.
     * Researchers hypothesize that at elite levels, the people that had to work
        harder to initially learn the game have already developed better
        practice routines than those that had an easier time early on.
-
- * Data suggests that one needs a minimum IQ of 110-120 to be a successful
-    researcher
 
 ### When people say "I'm not good at something" it becomes a self-fulfilling prophecy.
 
@@ -359,14 +365,14 @@ some cases where you have to start as a child:
  * Those children get more praise and attention from the coaches, and the
     younger children just assume they're not as good.
  * The older children are more motivated to continue, so they keep getting
-    better
+    better.
 
 The same effect is present in other sports, like soccer.
 
 #### "Tone-deafness" is _incredibly_ rare
- * 1 in 6 American adults think they can't sing or are tone deaf
+ * 1 in 6 American adults think they can't sing or are tone deaf.
  * Real tone deafness is so rare, the discovery of such a person made it into
-    a major scientific journal
+    a major scientific journal.
  * The people who think they're tone deaf usually were told that they couldn't
     sing at some point, and stopped trying after that.
 

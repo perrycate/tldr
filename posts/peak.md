@@ -378,7 +378,33 @@ The same effect is present in other sports, like soccer.
 
 How many people feel the same in other areas? How many people are "bad at math"?
 
-## NTS
-Should've split brain vs body (or not at all)
-Need to have high-level structure to begin with
-Don't ask for feedback until draft is completely ready
+--------
+## My Opinion
+Anders Ericsson's work is referenced in so many other books in this genre that
+one might feel that you already know most of the material going into the book.
+That said, I personally still think this book is worth a read - I hadn't heard
+anything about Mental Representations prior to reading this book, and the
+studies he references are also pretty enlightening. It'll end up being a much
+faster read if you're already familiar with Deliberate Practice - you can
+pretty much skim through half the book to get to the newer information.
+
+## Meta Thoughts
+Wow, this TL;DR took _forever_. I felt like there were two main challenges that
+made this harder to summarize:
+ * The structure of the book isn't well suited to a direct summary. If I just
+    summarized each chapter and threw it into this post, the order wouldn't
+    have made much sense. Instead I shuffled several ideas around to flow
+    better for this format.
+ * This book has a _ton_ of studies and examples and such. They're all
+    fascinating, and it was very hard to decide which ones to include and how
+    detailed I should be.
+
+Takeaways for the future:
+ * I should start with a high-level picture of what exactly I want to convey
+   with my summary. That can better guide my choices for what to include, and
+   make it less likely that I change my mind later in the process.
+ * I should only ask for feedback once the draft version is completely ready.
+   I got some great feedback from a friend on how to improve the summary, but
+   that feedback would have been more helpful if I had asked after the entire
+   thing was "completed".
+

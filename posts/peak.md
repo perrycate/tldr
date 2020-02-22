@@ -1,7 +1,7 @@
 ---
 title: Peak
 author: Anders Ericsson and Robert Pool
-date: 2020-01-15
+date: 2020-02-21
 tags: Anders-Ericsson, Expertise, Deliberate-Practice
 template: tldr
 ---

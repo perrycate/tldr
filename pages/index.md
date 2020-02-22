@@ -10,11 +10,14 @@ where I'm keeping these summaries!
 
 
 ## Progress So Far
-I've added my [first post](/posts/so-good-they-cant-ignore-you.html), but
-_technically_ it doesn't count. I made my original summary of So Good They
-Can't Ignore You in late 2019, so I'm not treating it as one of my 20 tldrs for
-the year. That book inspired me to start this website (among other things), so
-it seemed fitting to have it be the first thing I added.
+
+It took much longer that I had hoped, but I've finished my second (technically
+first) TL;DR! Next I'm doing Deep Work, also by Cal Newport.
+
+0. [So Good They Can't Ignore You](/posts/so-good-they-cant-ignore-you.html)
+ by Cal Newport
+1. [Peak](/posts/peak.html) by Anders Ericsson and Robert Pool
+
 
 ## Who Am I?
 Mind your own business. Just kidding, mostly. I don't have much of a social

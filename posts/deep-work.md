@@ -6,6 +6,7 @@ tags: Cal-Newport, Career
 template: tldr
 ---
 
+## Ability to concentrate is increasingly valuable
 Economy shifting to knowledge work
 
 Must master hard things
@@ -16,12 +17,41 @@ Deep work lets you do both
 ? Caveat re: some non-deep jobs
 
 
+## Ability to concentrate is increasingly rare
 Deep work is hard to come by
 
 Busyness vs productivity
 
 
-?Deep work can make you happier
+## ?Deep work can make you happier
+
+
+
+## ?Maybe clarify what deep work is/prerequisites for it
+
+
+
+
+
+---
+
+##Reserve time
+blocking time
+hard to reach
+drain the shallows?
+
+##Reduce inputs
+Embrace boredom
+
+drain the shallows?
+
+vital few?
+
+##
+
+
+
+---
 
 
 Rules (For what objective?)

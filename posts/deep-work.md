@@ -6,7 +6,7 @@ tags: Cal-Newport, Career
 template: tldr
 ---
 
-## Ability to concentrate is increasingly valuable
+## Ability to concentrate is increasingly necessary
 Economy shifting to knowledge work
 
 Must master hard things
@@ -33,27 +33,6 @@ Busyness vs productivity
 
 
 
----
-
-##Reserve time
-blocking time
-hard to reach
-drain the shallows?
-
-##Reduce inputs
-Embrace boredom
-
-drain the shallows?
-
-vital few?
-
-##
-
-
-
----
-
-
 Rules (For what objective?)
 
 
@@ -74,11 +53,45 @@ Make Grand Gestures
 Don't work alone
 
 Execute like a business/the 4 disciplines
+% this is basically "how to get started"
 
 1. Focus on the wildly important
+
+Identify a small number of ambitious outcomes to pursue in deepwork.
+"If you want to win the war for attention, don't try to say no to the trivial
+distractions you find on the information smorgasbord; try to say yes to the
+subject that arouses a terrifying longing, and let the terrifying longing crowd
+out everything else."
+--David brooks
+Set ambitious projects with a tangible reward.
+
 2. Act on the lead measures
+
+Lag measures: describe the thing you're trying to improve
+ * eg customer satisfaction, or papers written per year
+ * The come too late to change the behavior - whatever caused this metric to be
+    bad has already happened.
+
+Lead measure: measure the new behaviors that will drive success on the lag measures
+ * eg number of free samples given out
+ * Can directly increase it
+
+In other words, focus on the things you directly control in the immediate future
+For deep work: time spent in a state of deep work dedicated toward your wildly
+important goal
+
 3. Keep a compelling scoreboard
+
+ * physical artifact that displays current deep work hour count
+
+
 4. Create a cadence of accountability
+
+ * Do a weekly review planning for the workweek ahead.
+
+
+
+
 
 Be Lazy
 Downtime:

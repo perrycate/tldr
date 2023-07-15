@@ -11,7 +11,7 @@ This place is a dumping ground for (rare) public thoughts.
 
 In early 2020 I decided to summarize 20 interesting books by the end of the year.
 That lasted all of a month before the pandemic hit, and my priorities shifted.
-You can still find a couple summaries [here](/posts/) though.
+You can still find a couple summaries [here](/summaries/) though.
 
 In fall 2021 I started learning about climate change.
 One year later, I left my job at Google to join a climate-related startup.

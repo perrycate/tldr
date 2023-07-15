@@ -1,5 +1,5 @@
 <ul>
   <li><a href="<%= page "index" %>">Home</a></li>
-  <li><a href="<%= base "posts" %>">Posts</a></li>
+  <li><a href="<%= base "summaries" %>Book Summaries</a></li>
   <li><a href="https://forms.gle/acyJAaniV9u21aXy7">Contact Me</a></li>
 </ul>
